@@ -14,20 +14,19 @@ ProductTag.init(
       autoIncrement: true
     },
     product_id: {
-      tyep: DataTypes.INTEGER,
+      type: DataTypes.INTEGER,
       references: {
         model: 'product',
         key: 'id'
       }
     },
     tag_id: {
-      tyep: DataTypes.INTEGER,
+      type: DataTypes.INTEGER,
       references: {
         model: 'tag',
         key: 'id'
       }
     }
-
   },
   {
     sequelize,
