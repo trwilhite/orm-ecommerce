@@ -30,7 +30,8 @@ THEN I am able to successfully create, update, and delete data in my database
 * Sequelize
 
 ## Demo
-
+* Part One: https://drive.google.com/file/d/1kr53Xd9_pdcxbMRSu6Owwmrp0uc-XyUE/view
+* Part Two: https://drive.google.com/file/d/1BdsMD0SbTRyRwSMI1leFd90ciwhCQ_cv/view
 
 ## Contributions
 Made with ❤️️ by Tamara Wilhite
